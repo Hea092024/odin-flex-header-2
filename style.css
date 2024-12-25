@@ -24,3 +24,10 @@ body {
     width: 48px;
     height: 48px;
   }
+
+  .logo {
+    color: rebeccapurple;
+    font-size: 32px;
+    font-weight: 900;
+    font-style: italic;
+  }
