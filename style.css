@@ -44,3 +44,7 @@ body {
     text-decoration: none;
     color: rebeccapurple;
   }
+
+  ul {
+    list-style-type: none;
+  }
